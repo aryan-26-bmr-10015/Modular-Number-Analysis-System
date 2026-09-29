@@ -1,4 +1,4 @@
-# Number Property Checker
+# Modular Number Analysis System
 
 This project is a Python-based menu-driven program that checks whether a given number is:
 
